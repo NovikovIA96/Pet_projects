@@ -19,7 +19,7 @@
 - absent_days_test_data.csv - основные данные для ноутбука disease_hypo_test.ipynb / тестовый файл для скрипта (дашборда) absent_days.py
 
 **Прочие файлы:**
-- .gitignore
+- .gitignore: игнорируются системные файлы MacOs 
 - .readme
 
    
